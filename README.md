@@ -5,7 +5,7 @@ This is a little Unity Project that I made to practice my existing Unity knowled
 ### Game Components
 
  * Welcome Screen
- * Exit Scree
+ * Exit Screen
  * Three Levels
  * Score Tracker
 
